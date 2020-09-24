@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+body {
+  background-color: rgba(210, 211, 211, 0.413);
+}
